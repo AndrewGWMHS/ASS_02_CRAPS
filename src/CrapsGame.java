@@ -14,7 +14,7 @@ public class CrapsGame {
         boolean yesOrNoValid = false;
         boolean playAgain = false;
 
-        int money = 1000000;
+        int money = 1000;
         int moneySpending = 0;
         boolean moneyValid = false;
 
